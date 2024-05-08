@@ -1,0 +1,25 @@
+body {
+    background-image: url('Media/me1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: 40% 40%;
+    z-index: -100;
+    
+}
+
+@font-face {
+    src: url(Raleway/static/Raleway-ExtraLight.ttf);
+    font-family: raleway;
+}
+
+.textbody {
+    text-align: center;
+    color: aliceblue;
+    font-family: raleway;
+    font-weight: bold;
+    z-index: 22;
+    position: relative;
+
+    
+}
